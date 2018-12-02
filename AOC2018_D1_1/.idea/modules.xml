@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.1/1.1.iml" filepath="$PROJECT_DIR$/1.1/1.1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AOC2018_D1_1.iml" filepath="$PROJECT_DIR$/AOC2018_D1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOC2018.iml" filepath="$PROJECT_DIR$/AOC2018.iml" />
     </modules>
   </component>
 </project>

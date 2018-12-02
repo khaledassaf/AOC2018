@@ -5,6 +5,12 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/1.1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/1.2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/1.2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/1.2/build" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
